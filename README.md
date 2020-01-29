@@ -1,3 +1,7 @@
+# cra-template-default [![Build Status](https://travis-ci.com/specialgee/cra-template-default.svg?branch=master)](https://travis-ci.com/specialgee/cra-template-default)
+
+Create React App Custom Template
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
